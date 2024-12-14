@@ -3,12 +3,12 @@
 
 **Team #3:** Shin Aung, Sydni Yang, Katina Carranza
 
-### Presentation Slides
+## Presentation Slides
 Check out our [slides](/slides/) for our findings and analysis.
 
 ![Thumbnail](/slides/1.jpg)
 
-### Dataset:
+## Dataset:
 The dataset used for this project is available on [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/public-perception-of-ai).
 
 ![Dataset Overview](/slides/3.jpg)
