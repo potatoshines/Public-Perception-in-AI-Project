@@ -1,9 +1,10 @@
 # Public Perception of AI
 **Ideas Cohort 3 Program: Machine Learning Track - Final Project**
-
 **Team #3:** Shin Aung, Sydni Yang, Katina Carranza
 
-### [Presentation Slides](/slides/)
+### Presentation Slides
+Check out our [slides](/slides/) for our findings and analysis.
+
 ![Thumbnail](/slides/1.jpg)
 
 ### Dataset:
